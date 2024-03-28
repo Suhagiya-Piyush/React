@@ -4,16 +4,18 @@ import './App.css';
 // import Paragraph from './Componets/Paragraph';
 // import Image from './Componets/Image';
 // import Lst from './Componets/List';
-import Greet from "./Componets/Greeting";
+// import Greet from "./Componets/Greeting";
+import NestedA from './Demo1';
 
 function App() {
   return (
     <div className="App">
       {/* <Head/>
       <Paragraph/>
-      <Image/>
-      <div className="list" id='order'><Lst/></div> */}
-      <Greet/>
+    <div className="list" id='order'><Lst/></div> */}
+      {/* <Greet/> */}
+    {/* <Image/> */}
+    <NestedA/>
     </div>
   );
 }
