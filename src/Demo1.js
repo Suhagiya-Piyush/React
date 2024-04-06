@@ -1,8 +1,8 @@
-import React  from "react";
-import NestedB from "./Demo2";
+// import React  from "react";
+// import NestedB from "./Demo2";
 
-const NestedA = () => {
-    return <NestedB/>
-}
+// const NestedA = () => {
+//     return <NestedB/>
+// }
 
-export default NestedA;
+// export default NestedA;
